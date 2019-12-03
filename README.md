@@ -8,3 +8,6 @@
 * This data set is extremely well known and is a popular starting guide for DL. 
 * It is used for a simple classification task of identifying hand written digits from **0-9**. 
 * Moreover, the data set is unreasonably optimized and centered for clarity and ease of use. We cannot expect this in the real world.
+
+#### 2. PyTorch Practice
+* An introduction into important datatypes and functions. Basic structures are used to implement a manual feed forward NN.
